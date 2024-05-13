@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d89a3cd.css",
+    "main.js": "/static/js/main.c227c2a3.js",
+    "static/media/background-space-1.png": "/static/media/background-space-1.da22183c9154ab525107.png",
+    "static/media/Lato-ExtraBold.ttf": "/static/media/Lato-ExtraBold.0d13f4b5f45c14cf4d3c.ttf",
+    "static/media/space-4.png": "/static/media/space-4.7124c533ce46d81d5e7b.png",
+    "static/media/space-1.png": "/static/media/space-1.08916635e93065a89499.png",
+    "static/media/space-2.png": "/static/media/space-2.6b7f1e9ba2e05b74deb4.png",
+    "static/media/space-3.png": "/static/media/space-3.65622e76dae8200ef1ae.png",
+    "static/media/Lato-Bold.ttf": "/static/media/Lato-Bold.636be8de934918e38ed9.ttf",
+    "static/media/earth.png": "/static/media/earth.05718801344426a7d935.png",
+    "static/media/logo-mini.svg": "/static/media/logo-mini.5773d976275398ac09a04a0d49ec19d6.svg",
+    "static/media/buy-hover.svg": "/static/media/buy-hover.38257c9cd75c61e8e133.svg",
+    "static/media/menu.svg": "/static/media/menu.8b6410639bf89d340664df0cd5382ca7.svg",
+    "static/media/close.svg": "/static/media/close.df6f6039b8946e0ec261763867682077.svg",
+    "index.html": "/index.html",
+    "main.7d89a3cd.css.map": "/static/css/main.7d89a3cd.css.map",
+    "main.c227c2a3.js.map": "/static/js/main.c227c2a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d89a3cd.css",
+    "static/js/main.c227c2a3.js"
+  ]
+}
